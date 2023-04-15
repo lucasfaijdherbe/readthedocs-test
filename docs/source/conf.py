@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AssistYou telephone platform documentation'
+copyright = '2023, AssistYou'
+author = 'AssistYou'
 
 release = '0.1'
 version = '0.1.0'
